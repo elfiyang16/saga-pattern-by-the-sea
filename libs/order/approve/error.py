@@ -1,0 +1,2 @@
+class ErrorOrderApprove(Exception):
+    pass
