@@ -1,0 +1,25 @@
+{
+  "order_id": "26c2f1ab-f51e-4380-9361-399c23ae6231",
+  "order_date": "2019-02-05T16:12:09.000Z",
+  "customer_id": "71076d03-a9af-44b2-a201-87c0702ceda7",
+  "items": [
+    {
+      "item_id": "6fe66512-cf8e-45cb-baa7-9d5d5c0eb174",
+      "qty": 1.0,
+      "description": "item 1",
+      "unit_price": 12.25
+    },
+    {
+      "item_id": "6fe66512-cf8e-45cb-baa7-9d5d5c0eb175",
+      "qty": 2.0,
+      "description": "item 2",
+      "unit_price": 5.0
+    },
+    {
+      "item_id": "6fe66512-cf8e-45cb-baa7-9d5d5c0eb176",
+      "qty": 3.0,
+      "description": "item 3",
+      "unit_price": 16.99
+    }
+  ]
+}
